@@ -1,0 +1,2 @@
+# -SPECIAL64.PROMPTS
+$ 1.0
